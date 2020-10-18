@@ -1,9 +1,3 @@
-# Geolocation and Geocoding
+# Tests with libs geolocator and google_maps_flutter
 
-## Tests with libs location and geolocator
-
-### branch: location
-
-Stream location demo and one time location demo
-
-![](location_demo.gif)
+![](geolocator_and_google_maps_demo.gif)
